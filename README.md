@@ -1,7 +1,7 @@
 # hospitaldatabasesystem.github.io
 This repository applies structural programming and file-handling to build a simple system that adds, views, searches, and edits records in hospital’s database. I have shared both the source file and executable file of the program. If you have problem downloading the files and running the .exe file, it may be due to your browser restricting to download accounting to the fact that the file comes from an unregistered author and there may be a virus threat. If so, force download while downloading and do run anyway while opening the .exe file. Else, download an IDE (QB64 of Microsoft will be ideal) and just open the .bas file using it and then run the file. Here's the official link for QB64 download from Microsoft: https://www.qb64.org/portal/.
 
-It provides with five options:
+The main program provides with five options:
 
 1.	Add Records: Adds any new hospital’s data into the hospital database
 
